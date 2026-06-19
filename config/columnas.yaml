@@ -1,0 +1,26 @@
+# Nombres canónicos esperados y palabras clave para inferencia difusa de columnas
+# cuando el CSV entregado no usa exactamente estos nombres.
+columnas_csv:
+  fecha:
+    nombre_exacto: "Fecha_Analisis"
+    keywords: ["fecha", "periodo", "date", "analisis"]
+  subarea:
+    nombre_exacto: "sub_area"
+    keywords: ["sub_area", "id", "area", "cuadrante"]
+  tsm:
+    nombre_exacto: "SST_mediana"
+    keywords: ["sst", "tsm", "temp", "temperatura"]
+  clorofila:
+    nombre_exacto: "Clorofila_NDCI_mediana"
+    keywords: ["clorofila", "chl", "ndci", "alimento"]
+  batimetria:
+    nombre_exacto: "Batimetria_promedio"
+    keywords: ["batimetria", "profundidad", "depth", "promedio"]
+  semaforo:
+    nombre_exacto: "Semaforo_promedio"
+    keywords: ["semaforo", "prioridad", "severidad"]
+
+geojson_properties:
+  - "id_subarea"
+  - "nombre"
+  - "veda"

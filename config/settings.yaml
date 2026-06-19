@@ -1,0 +1,13 @@
+colores:
+  recomendada: "#1976d2"
+  con_reserva: "#f0a500"
+  restringida: "#c0392b"
+data_paths:
+  csv_real: "data/Reporte_SubAreas_Pesca_2026_2.csv"
+  csv_fallback: "data/lecturas_fallback.csv"
+  geojson_fallback: "data/subareas_fallback.geojson"
+app:
+  titulo: "AGIS Mar"
+  subtitulo: "Inteligencia satelital para priorización pesquera · Golfo San Jorge"
+  disclaimer: "El score es un indicador de apoyo a la decisión, no una predicción de captura."
+  fuente_datos: "MODIS-Aqua L3SMI / GEBCO · Período: enero 2026 · Procesado con Google Earth Engine"

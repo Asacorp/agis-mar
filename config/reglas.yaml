@@ -1,0 +1,14 @@
+variables:
+  tsm:
+    min_optimal: 15.0
+    max_optimal: 17.5
+    weight: 50.0
+  clorofila:
+    min_optimal: 0.01
+    max_optimal: 0.05
+    weight: 50.0
+batimetria:
+  profundidad_max_m: 150
+thresholds:
+  recomendada_min: 75.0
+  con_reserva_min: 40.0

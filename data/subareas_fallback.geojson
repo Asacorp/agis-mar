@@ -1,0 +1,565 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z01",
+        "nombre": "Subárea Z01",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68.0,
+              -45.0
+            ],
+            [
+              -67.4,
+              -45.0
+            ],
+            [
+              -67.4,
+              -45.55
+            ],
+            [
+              -68.0,
+              -45.55
+            ],
+            [
+              -68.0,
+              -45.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z02",
+        "nombre": "Subárea Z02",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.4,
+              -45.0
+            ],
+            [
+              -66.8,
+              -45.0
+            ],
+            [
+              -66.8,
+              -45.55
+            ],
+            [
+              -67.4,
+              -45.55
+            ],
+            [
+              -67.4,
+              -45.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z03",
+        "nombre": "Subárea Z03",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.8,
+              -45.0
+            ],
+            [
+              -66.2,
+              -45.0
+            ],
+            [
+              -66.2,
+              -45.55
+            ],
+            [
+              -66.8,
+              -45.55
+            ],
+            [
+              -66.8,
+              -45.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z04",
+        "nombre": "Subárea Z04",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.2,
+              -45.0
+            ],
+            [
+              -65.6,
+              -45.0
+            ],
+            [
+              -65.6,
+              -45.55
+            ],
+            [
+              -66.2,
+              -45.55
+            ],
+            [
+              -66.2,
+              -45.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z05",
+        "nombre": "Subárea Z05",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65.6,
+              -45.0
+            ],
+            [
+              -65.0,
+              -45.0
+            ],
+            [
+              -65.0,
+              -45.55
+            ],
+            [
+              -65.6,
+              -45.55
+            ],
+            [
+              -65.6,
+              -45.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z06",
+        "nombre": "Subárea Z06",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68.0,
+              -45.55
+            ],
+            [
+              -67.4,
+              -45.55
+            ],
+            [
+              -67.4,
+              -46.1
+            ],
+            [
+              -68.0,
+              -46.1
+            ],
+            [
+              -68.0,
+              -45.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z07",
+        "nombre": "Subárea Z07",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.4,
+              -45.55
+            ],
+            [
+              -66.8,
+              -45.55
+            ],
+            [
+              -66.8,
+              -46.1
+            ],
+            [
+              -67.4,
+              -46.1
+            ],
+            [
+              -67.4,
+              -45.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z08",
+        "nombre": "Subárea Z08",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.8,
+              -45.55
+            ],
+            [
+              -66.2,
+              -45.55
+            ],
+            [
+              -66.2,
+              -46.1
+            ],
+            [
+              -66.8,
+              -46.1
+            ],
+            [
+              -66.8,
+              -45.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z09",
+        "nombre": "Subárea Z09",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.2,
+              -45.55
+            ],
+            [
+              -65.6,
+              -45.55
+            ],
+            [
+              -65.6,
+              -46.1
+            ],
+            [
+              -66.2,
+              -46.1
+            ],
+            [
+              -66.2,
+              -45.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z10",
+        "nombre": "Subárea Z10",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65.6,
+              -45.55
+            ],
+            [
+              -65.0,
+              -45.55
+            ],
+            [
+              -65.0,
+              -46.1
+            ],
+            [
+              -65.6,
+              -46.1
+            ],
+            [
+              -65.6,
+              -45.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z11",
+        "nombre": "Subárea Z11",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68.0,
+              -46.1
+            ],
+            [
+              -67.4,
+              -46.1
+            ],
+            [
+              -67.4,
+              -46.650000000000006
+            ],
+            [
+              -68.0,
+              -46.650000000000006
+            ],
+            [
+              -68.0,
+              -46.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z12",
+        "nombre": "Subárea Z12",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -67.4,
+              -46.1
+            ],
+            [
+              -66.8,
+              -46.1
+            ],
+            [
+              -66.8,
+              -46.650000000000006
+            ],
+            [
+              -67.4,
+              -46.650000000000006
+            ],
+            [
+              -67.4,
+              -46.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z13",
+        "nombre": "Subárea Z13",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.8,
+              -46.1
+            ],
+            [
+              -66.2,
+              -46.1
+            ],
+            [
+              -66.2,
+              -46.650000000000006
+            ],
+            [
+              -66.8,
+              -46.650000000000006
+            ],
+            [
+              -66.8,
+              -46.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z14",
+        "nombre": "Subárea Z14",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -66.2,
+              -46.1
+            ],
+            [
+              -65.6,
+              -46.1
+            ],
+            [
+              -65.6,
+              -46.650000000000006
+            ],
+            [
+              -66.2,
+              -46.650000000000006
+            ],
+            [
+              -66.2,
+              -46.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z15",
+        "nombre": "Subárea Z15",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65.6,
+              -46.1
+            ],
+            [
+              -65.0,
+              -46.1
+            ],
+            [
+              -65.0,
+              -46.650000000000006
+            ],
+            [
+              -65.6,
+              -46.650000000000006
+            ],
+            [
+              -65.6,
+              -46.1
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id_subarea": "Z16",
+        "nombre": "Subárea Z16",
+        "veda": false
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -68.0,
+              -46.650000000000006
+            ],
+            [
+              -67.4,
+              -46.650000000000006
+            ],
+            [
+              -67.4,
+              -47.2
+            ],
+            [
+              -68.0,
+              -47.2
+            ],
+            [
+              -68.0,
+              -46.650000000000006
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
